@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "cra-template": "1.0.3",
+    "d3": "^7.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
@@ -32,7 +33,6 @@
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
-    "d3": "^6.2.0",
     "husky": "^4.3.0"
   },
   "husky": {
